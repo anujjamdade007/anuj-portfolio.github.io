@@ -237,7 +237,7 @@ ScrollReveal().reveal('.contact__container', {duration: 2000, delay: 50})
 
 /*==================== TYPED JS ====================*/
 const typed_home = new Typed('#multiple-text', {
-    strings: ['Data Enginner Intern', 'Big Data Enthusiast'],
+    strings: ['Backend Developer', 'Django, DRF, and many more'],
     typeSpeed: 100,
     backSpeed: 30,
     backDelay: 1000,
@@ -245,7 +245,7 @@ const typed_home = new Typed('#multiple-text', {
     });
 
 const typed_footer = new Typed('#multiple-text-footer', {
-    strings: ['Data Enginner Intern', 'Big Data Enthusiast'],
+  strings: ['Backend Developer', 'Django, DRF, and many more'],
     typeSpeed: 100,
     backSpeed: 30,
     backDelay: 1000,
